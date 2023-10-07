@@ -1,5 +1,5 @@
-# python_assignment_tailNode
-python assignment for tailnode
+# fetch-api-data-and-scraping-with-python
+fetch-api-data-and-scraping-with-python
 
 Part - A
 
